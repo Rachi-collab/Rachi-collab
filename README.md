@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rachi-rajpal-88b233285/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rachirajpal13@gmail.com)
-[![Profile Views](https://visitcount.itsvg.in/api?id=rachi-collab&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Profile Views](https://komarev.com/ghpvc/?username=Rachi-collab)](https://github.com/Rachi-collab)
 
 </div>
 
@@ -104,7 +104,7 @@ me.say_hi()
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rachi-collab&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=rachi-collab&theme=dark&hide_border=false)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rachi-collab)](https://git.io/streak-stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rachi-collab&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
