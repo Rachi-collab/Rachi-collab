@@ -25,7 +25,7 @@ class RachiRajpal:
         self.open_to     = ["AI/ML Internships", "Collaborative Projects", "Open Source"]
 
     def say_hi(self):
-        print("Thanks for visiting! Let's build something intelligent together. 🚀")
+        print("Thanks for visiting! Let's build something intelligent together.")
 
 me = RachiRajpal()
 me.say_hi()
