@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rachi+Rajpal&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=⚡+AI+%2F+ML+Engineer+in+the+Making+%7C+B.Tech+CSE+%2727&descAlignY=58&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rachi+Rajpal&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=+AI+%2F+ML+Engineer+in+the+Making+%7C+B.Tech+CSE+%2727&descAlignY=58&descSize=16"/>
 
 </div>
 
@@ -38,14 +38,14 @@ class RachiRajpal:
         self.tools     = ["TensorFlow", "PyTorch",
                           "Scikit-learn", "OpenCV"]
         self.currently = "Exploring Transformers & LLMs"
-        self.goal      = "AI / ML Engineer 🎯"
-        self.open_to   = ["Internships 💼",
-                          "Open Source 🌍",
-                          "Collabs 🤝"]
+        self.goal      = "AI / ML Engineer "
+        self.open_to   = ["Internships ",
+                          "Open Source ",
+                          "Collabs "]
         self.fun_fact  = "I debug ML models at 2AM ☕"
 
     def say_hi(self):
-        print("Let's build something intelligent! 🚀")
+        print("Let's build something intelligent! ")
 
 me = RachiRajpal()
 me.say_hi()
