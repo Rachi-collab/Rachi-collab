@@ -1,10 +1,14 @@
 <div align="center">
 
-### Engineer in the Making · B.Tech CSE '27 · Builder of Intelligent Systems
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rachi%20Rajpal&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%2F%20ML%20Engineer%20in%20the%20Making%20%7C%20B.Tech%20CSE%20%2727&descAlignY=51&descSize=16"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rachi-rajpal-88b233285/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rachirajpal13@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=Rachi-collab)](https://github.com/Rachi-collab)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems+%F0%9F%A4%96;Deep+Learning+Explorer+%F0%9F%94%AC;Open+Source+Contributor+%F0%9F%9A%80;Always+Learning%2C+Always+Building+%E2%9A%A1)](https://git.io/typing-svg)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/rachi-rajpal-88b233285/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:rachirajpal13@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=Rachi-collab&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS)](https://github.com/Rachi-collab)
 
 </div>
 
@@ -25,7 +29,7 @@ class RachiRajpal:
         self.open_to     = ["AI/ML Internships", "Collaborative Projects", "Open Source"]
 
     def say_hi(self):
-        print("Thanks for visiting! Let's build something intelligent together.")
+        print("Thanks for visiting! Let's build something intelligent together. 🚀")
 
 me = RachiRajpal()
 me.say_hi()
@@ -102,11 +106,13 @@ me.say_hi()
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rachi-collab&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Rachi-collab&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9" height="180"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rachi-collab&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9" height="180"/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rachi-collab)](https://git.io/streak-stats)
+<br/><br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rachi-collab&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://streak-stats.demolab.com?user=Rachi-collab&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=6366f1&ring=6366f1&fire=f97316&currStreakLabel=6366f1"/>
 
 </div>
 
@@ -140,15 +146,21 @@ me.say_hi()
 > I'm actively looking for **AI/ML internships**, **open-source collaborations**, and **project partnerships**.
 > If you're working on something intelligent and impactful — let's talk.
 
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rachi-rajpal-88b233285/)
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rachirajpal13@gmail.com)
+
+</div>
 
 ---
 
 <div align="center">
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
 
-*"The best way to predict the future is to build it."*
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 </div>
