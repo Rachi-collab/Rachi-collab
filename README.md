@@ -106,13 +106,16 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rachi-collab&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9" height="180"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rachi-collab&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9" height="180"/>
+<!-- Stats card — uses GitHub Stats Extended, the actively maintained successor to github-readme-stats -->
+<img src="https://github-stats-extended.vercel.app/api?username=Rachi-collab&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9" height="180" alt="Rachi's GitHub Stats"/>
+&nbsp;&nbsp;
+<!-- Top languages card — same service -->
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Rachi-collab&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9" height="180" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Rachi-collab&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=6366f1&ring=6366f1&fire=f97316&currStreakLabel=6366f1"/>
+<!-- Streak stats — DenverCoder1's demolab instance, actively maintained -->
+<img src="https://streak-stats.demolab.com?user=Rachi-collab&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=6366f1&ring=6366f1&fire=f97316&currStreakLabel=6366f1" alt="GitHub Streak"/>
 
 </div>
 
