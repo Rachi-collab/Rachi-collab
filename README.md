@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rachi+Rajpal&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=+AI+%2F+ML+Engineer+in+the+Making+%7C+B.Tech+CSE+%2727&descAlignY=58&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rachi+Rajpal&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=⚡+AI+%2F+ML+Engineer+in+the+Making+%7C+B.Tech+CSE+%2727&descAlignY=58&descSize=16"/>
 
 </div>
 
@@ -27,28 +27,65 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
 
-<img align="right" alt="AI Coding GIF" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="AI Coding GIF" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ```python
+#!/usr/bin/env python3
+# ─────────────────────────────────────────────
+#   WHO AM I?  Let the code speak 🤖
+# ─────────────────────────────────────────────
+
+from dataclasses import dataclass, field
+from typing import List
+
+@dataclass
 class RachiRajpal:
-    def __init__(self):
-        self.role      = "B.Tech CSE Student (Batch 2027)"
-        self.focus     = ["AI", "ML", "Deep Learning"]
-        self.languages = ["Python", "Java", "C++", "JS"]
-        self.tools     = ["TensorFlow", "PyTorch",
-                          "Scikit-learn", "OpenCV"]
-        self.currently = "Exploring Transformers & LLMs"
-        self.goal      = "AI / ML Engineer "
-        self.open_to   = ["Internships ",
-                          "Open Source ",
-                          "Collabs "]
-        self.fun_fact  = "I debug ML models at 2AM ☕"
+    name       : str        = "Rachi Rajpal"
+    role       : str        = "B.Tech CSE '27 @ CSVTU"
+    location   : str        = "India 🇮🇳"
 
-    def say_hi(self):
-        print("Let's build something intelligent! ")
+    focus      : List[str]  = field(default_factory=lambda: [
+                                "Artificial Intelligence 🤖",
+                                "Machine Learning 📊",
+                                "Deep Learning 🧠",
+                                "Computer Vision 👁️",
+                              ])
 
-me = RachiRajpal()
-me.say_hi()
+    stack      : List[str]  = field(default_factory=lambda: [
+                                "Python • Java • C++",
+                                "TensorFlow • PyTorch • Keras",
+                                "Scikit-learn • OpenCV • MLflow",
+                                "NumPy • Pandas • Matplotlib",
+                              ])
+
+    currently  : str        = "Exploring Transformers & LLMs 🔬"
+    building   : str        = "Contributing to GSSoC 2026 🚀"
+    goal       : str        = "AI / ML Engineer @ a top tech company 🎯"
+
+    open_to    : List[str]  = field(default_factory=lambda: [
+                                "AI/ML Internships 💼",
+                                "Open Source Collabs 🌍",
+                                "Research Projects 📄",
+                              ])
+
+    fun_facts  : List[str]  = field(default_factory=lambda: [
+                                "I debug ML models at 2AM ☕",
+                                "My loss curves are works of art 📉",
+                                "I read papers for fun (send help) 📚",
+                              ])
+
+    def say_hi(self) -> str:
+        return (
+            f"Hey! I'm {self.name} 👋\n"
+            f"Passionate about building intelligent systems\n"
+            f"that actually make a difference. Let's connect!"
+        )
+
+# ─── Run ──────────────────────────────────────
+if __name__ == "__main__":
+    me = RachiRajpal()
+    print(me.say_hi())
+    print("\n🚀 Always learning. Always building.")
 ```
 
 <br clear="right"/>
@@ -131,7 +168,9 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Rachi-collab&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub Trophies"/>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rachi-collab&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&column=4" alt="GitHub Trophies"/>
+</a>
 
 </div>
 
