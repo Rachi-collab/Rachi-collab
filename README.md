@@ -41,7 +41,7 @@ from typing import List
 @dataclass
 class RachiRajpal:
     name       : str        = "Rachi Rajpal"
-    role       : str        = "B.Tech CSE '27 @ CSVTU"
+    role       : str        = "B.Tech CSE '27 @ JUET"
     location   : str        = "India 🇮🇳"
 
     focus      : List[str]  = field(default_factory=lambda: [
