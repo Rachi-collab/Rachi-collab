@@ -180,18 +180,22 @@ if __name__ == "__main__":
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📈 Learning Roadmap
+## 📈 Learning Roadmap (2024 – 2027)
 
-```
-2024 ─────────────────────────────────────────────────────── 2027
-  │                                                             │
-  ●── ML Fundamentals      ●── Deep Learning      ●── Research & OSS
-  │   Scikit-learn          │   CNNs, RNNs, NLP    │   Contributions
-  │   NumPy, Pandas         │   Transformers        │   Publications
-  │   Feature Engineering   │   TF / PyTorch        │
-  │                         │                       └── 🎯 AI Engineer
-  └── Real-world Datasets   └── Computer Vision
-```
+* **Phase 1: ML Fundamentals (2024)**
+  * Scikit-learn, NumPy, Pandas, Feature Engineering
+  * Hands-on projects with real-world datasets
+
+* **Phase 2: Deep Learning & Vision (2025)**
+  * CNNs, RNNs, Transformers & Attention Mechanisms
+  * PyTorch, TensorFlow, Computer Vision pipelines
+
+* **Phase 3: Research & Open Source (2026)**
+  * Active contributions to open-source projects (GSSoC)
+  * MLOps (MLflow), cloud deployments (AWS/Azure)
+
+* **Phase 4: Target (2027)**
+  * 🎯 AI / ML Engineer at a top tech company
 
 ## 💡 Currently Exploring
 
