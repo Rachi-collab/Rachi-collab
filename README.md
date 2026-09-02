@@ -32,7 +32,7 @@
 ```python
 #!/usr/bin/env python3
 # ─────────────────────────────────────────────
-#   WHO AM I?  Let the code speak 🤖
+#   WHO AM I?  Let the code speak 
 # ─────────────────────────────────────────────
 
 from dataclasses import dataclass, field
@@ -45,10 +45,10 @@ class RachiRajpal:
     location   : str        = "India 🇮🇳"
 
     focus      : List[str]  = field(default_factory=lambda: [
-                                "Artificial Intelligence 🤖",
-                                "Machine Learning 📊",
-                                "Deep Learning 🧠",
-                                "Computer Vision 👁️",
+                                "Artificial Intelligence ",
+                                "Machine Learning ",
+                                "Deep Learning ",
+                                "Computer Vision ",
                               ])
 
     stack      : List[str]  = field(default_factory=lambda: [
@@ -58,25 +58,25 @@ class RachiRajpal:
                                 "NumPy • Pandas • Matplotlib",
                               ])
 
-    currently  : str        = "Exploring Transformers & LLMs 🔬"
-    building   : str        = "Contributing to GSSoC 2026 🚀"
-    goal       : str        = "AI / ML Engineer @ a top tech company 🎯"
+    currently  : str        = "Exploring Transformers & LLMs "
+    building   : str        = "Contributing to GSSoC 2026 "
+    goal       : str        = "AI / ML Engineer @ a top tech company "
 
     open_to    : List[str]  = field(default_factory=lambda: [
-                                "AI/ML Internships 💼",
-                                "Open Source Collabs 🌍",
-                                "Research Projects 📄",
+                                "AI/ML Internships ",
+                                "Open Source Collabs ",
+                                "Research Projects ",
                               ])
 
     fun_facts  : List[str]  = field(default_factory=lambda: [
-                                "I debug ML models at 2AM ☕",
-                                "My loss curves are works of art 📉",
-                                "I read papers for fun (send help) 📚",
+                                "I debug ML models at 2AM ",
+                                "My loss curves are works of art ",
+                                "I read papers for fun (send help) ",
                               ])
 
     def say_hi(self) -> str:
         return (
-            f"Hey! I'm {self.name} 👋\n"
+            f"Hey! I'm {self.name} \n"
             f"Passionate about building intelligent systems\n"
             f"that actually make a difference. Let's connect!"
         )
